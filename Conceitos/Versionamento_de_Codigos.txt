@@ -1,0 +1,28 @@
+Versionamento de Código
+
+Registro ou armazenamento dos códigos fontes (Projetos)
+- Versão
+- Gerenciamento mais completo da aplicação
+- Registro de modificação  e de ações
+
+Repositório
+- E um lugar que ficará armazenado o seu projeto
+
+Branch
+- Versão, sub repositório onde você pode armazenar seu fonte
+
+- Developer (Versões DEV) - Unitário dentro da sua máquina
+- Homolog (Versões HOMOLOG) - Merge de DEV para HOMOLOG - Testar interno no ambiente empresa *
+- Master (Versões de PROD) - Merge de HOMOLOG para PROD
+- Distribuição (Para ambiente da empresa -> Cliente x Empresa)
+
+- Git clone -> Clonar ou copiar um projeto do GIT
+- Git pull -> Verificar ou obter alterações feitas por todos
+- Git push -> Enviar alterações realizadas no projeto
+- Git status -> Verificar alterações realizadas no momento
+- Git commit -> Commitar alterações e preparar para envio (Git commit -m "mensagem")
+
+-- Adicionar e remover arquivos
+git add (. -> tudo)
+git remove
+
