@@ -26,3 +26,6 @@ Branch
 git add (. -> tudo)
 git remove
 
+-- Mudança de Branch
+git fetch -> Atualizar repositório
+git checkout -> Mudar de branch
