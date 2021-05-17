@@ -1,0 +1,20 @@
+Matemática
+
+Operadores Aritméticos
+Adição              +    
+Subtração           -
+Multiplicação       *
+Divisão             /
+Exponenciação       **/^
+
+Númericos inteiros e reais
+
+3º Problema
+Receba o valor inteiro de 2 números execute o calculo e exiba o resultado,
+execute a subtração de 2 do resultado da soma
+
+4º Problema
+A-)Receba o nome e sobrenome de uma pessoa e mostre ambos na tela
+B-)Receba dois nomes e duas idades e faça um calculo somando e
+subtraindo ambas
+

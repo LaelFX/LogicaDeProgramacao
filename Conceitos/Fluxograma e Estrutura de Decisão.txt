@@ -1,0 +1,48 @@
+Fluxograma
+
+Representação gráfica de um fluxo sistemico
+Define fluxo com simbolos (Simbologia)
+
+Estrutura de Decisão
+Programa => Perguntas?? => Resposta = VERDADEIRA / FALSA
+
+SIMPLES
+
+SE (CONDIÇÃO) ENTAO
+OPÇÃO 1 - VERDADEIRA
+FIMSE
+
+COMPOSTA
+
+SE (CONDIÇÃO) ENTAO
+OPÇÃO 1 - VERDADEIRA
+SENAO
+OPÇÃO 2 - FALSA
+FIMSE
+
+Operadores Relacionais (Comparação)
+Maior          | >        
+Menor          | <
+Maior ou Igual | >=
+Menor ou Igual | <=
+Diferente      | <> -- #
+Igual          | =
+Igual          | =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

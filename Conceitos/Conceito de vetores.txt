@@ -1,0 +1,4 @@
+Vetores
+Conjunto de blocos lógicos que armazenam um valor por vez
+Recebe uma única representação mas pode armazenar diversos valores
+

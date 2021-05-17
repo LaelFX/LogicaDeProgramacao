@@ -1,0 +1,77 @@
+O que é um programa?
+
+Conjunto de instruções que definirão a funcionalidade de um sistema.
+Esse conjunto de instruções que formam um algoritmo.
+Conjunto de algoritmos ou algoritmo formam o meu programa.
+
+2º Problema
+Preciso receber um nome e mostrar esse nome na tela (Para o usuário).
+
+1º Inicio
+2º Escreve o nome solicitado
+3º Mostrar na tela
+4º Fim
+
+Variável
+Bloco lógico que armazena um valor por vez.
+Se receber um novo valor ele altera o último.
+
+Composição de uma variável
+ID:TIPO (Visual G)
+[nome][Tipagem de dado]
+
+Tipagem de dados é a definição do tipo de dado que VAR vai armazenar
+------------
+Tabela
+------------
+caractere -> Cadeia de caracteres ou no caso Texto
+Ex: nome:caractere
+Ex marca:caractere
+
+inteiro -> Números inteiros que não possuem casa decimal
+Ex: idade:inteiro
+
+real -> Números que possuem casas decimais
+Ex: dinheiro:real
+
+lógico -> Condição de verdadeiro ou falso
+Ex: pergunta:logico
+
+-----------------------------------------------------------
+Componentes Saída - Exibir mensagens ao meu usuário
+escreva() -> Escreve apenas em uma linha
+escreval() -> Escreve quebrando conteúdo por linha
+-----------------------------------------------------------
+Comando de Entrada - Ler valores do usuário
+leia() -> Vai receber os valores digitados pelo usuário
+-----------------------------------------------------------
+Operador de atribuição
+<-
+:=
+Definir valores para um variável
+
+
+Constante
+É um bloco lógico que armazena um valor por vez
+O valor armazena ele será um valor fixo
+É declarado igualmente à variável
+
+ID:TIPO (Visual G)
+[nome][Tipagem de dado] [valor fixo]
+
+Declaração
+Variável devem ser declaras sem caracteres especiais, sem espaço e não
+devem iniciar com números
+
+Nunca:
+@#$%
+segundo_nome
+2ºnome
+2º nome = $%@$nome
+
+
+
+
+
+
+

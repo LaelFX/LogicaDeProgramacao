@@ -1,0 +1,20 @@
+2º Problema
+Preciso receber um nome e mostrar esse nome na tela (Para o usuário).
+
+1º Inicio
+2º Escreve o nome solicitado
+3º Mostrar na tela
+4º Fim
+
+1º Inicio
+2º Solicito o nome
+3º Recebe o nome -> VAR
+4º Exibir o nome
+5º Fim
+
+
+-------------------------------------------------------------------------
+Sistema
+
+Usuário -> Experts / Leigo
+Interação/Integração

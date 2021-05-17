@@ -1,0 +1,25 @@
+Lógica de Programação
+
+Conjunto de instruções que são definidas para realizarem uma tarefa,
+resolvendo um determinado tipo de problema!
+
+Problema = Solucionado = Passos
+
+Problema
+Definir solução para se fritar ovo
+
+1º Pegar frigideira
+2º Separar os ingredientes
+3º Acender o fogo
+4º Esquentar o óleo
+5º Quebrar o ovo
+6º Deixar fritar na frigideira
+7º Adicionar o sal
+8º Colocar no prato
+
+3 Etapas da lógica
+
+1º Português Estruturado
+2º Pseudocódigo - Construir algoritmos
+3º Fluxograma - Representa o fluxo de forma gráfica
+

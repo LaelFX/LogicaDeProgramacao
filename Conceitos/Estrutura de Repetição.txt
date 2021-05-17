@@ -1,0 +1,28 @@
+Estruturas de Repetição (Laços de Repetição)
+
+Funcionalidade é repetir um bloco de código, mais de uma vez dentro do algoritmo
+
+Enquanto
+Repita ate
+Para
+
+Enquanto => (while)
+
+enquanto(condicao) faca
+TAREFA
+fimenquanto
+
+Repita ate => (do while)
+repita
+TAREFA
+ate (Condição)
+
+Para => (For)
+Para <variável> de <começo> ate <fim> faca
+TAREFA
+fimpara
+
+Para <variável> de <começo> ate <fim> passo <quantidade de incremento> faca
+TAREFA
+fimpara
+

@@ -1,0 +1,46 @@
+Estrutura de decisão 
+
+SE (CONDIÇÃO) ENTAO
+	TAREFA 1
+SENAO
+	TAREFA 2
+FIMSE
+
+OPERADORES LÓGICOS
+
+SE (CONDIÇÃO "OP" CONDIÇÃO) ENTAO
+TAREFA 1 - VERDADEIRO
+SENAO
+TAREFA 2 - FALSO
+FIMSE
+
+OPERADOS LÓGICOS
+
+E => AND => &&
+OU => OR => ||
+NÃO => NOT
+XOR => EXCLUSIVIDADE
+
+OPERADOR E
+ V | V | V
+ V | F | F
+ F | V | F
+ F | F | F
+------------------------------
+OPERADOR OU
+ V | V | V
+ V | F | V
+ F | V | V
+ F | F | F
+------------------------------
+OPERADOR NOT + E
+ V | V | F
+ V | F | V
+ F | V | V
+ F | F | V
+------------------------------
+OPERADOR XOR
+ V | V | F
+ V | F | V
+ F | V | V
+ F | F | F

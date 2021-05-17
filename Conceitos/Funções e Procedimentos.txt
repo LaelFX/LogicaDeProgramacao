@@ -1,0 +1,27 @@
+Procedimentos => Método que não possui retorno
+
+Fragmenta um parte do código e proporciona sua chamada quando necessário
+Guarda um trecho de código que executará uma tarefa precisa ou específica
+Com o uso do método é possível utilizar e reutilizar um código e suas funções
+
+Estrutura do procedimento
+
+[procedimento] [id] [parâmetros]
+inicio
+Guardar a tarefa
+fimprocedimento
+
+Parâmetro => Um valor que vai vir a ser setado externamente
+
+Funções => Método que possui retorno de valor
+
+Fragmenta um parte do código e proporciona sua chamada quando necessário
+Guarda um trecho de código que executará uma tarefa precisa ou específica retornando valor
+Com o uso do método é possível utilizar e reutilizar um código e suas funções
+
+[funcao] [id] [parâmetros]
+inicio
+Guardar a tarefa e retornar o valor
+fimfuncao
+
+
